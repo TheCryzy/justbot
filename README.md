@@ -1,2 +1,0 @@
-# justbot
-botxd
